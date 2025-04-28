@@ -30,6 +30,8 @@ Uma aplicação SaaS voltada ao público internacional precisa exibir mensagens de 
 
 > Este exercício mostra como delegates com `Action` são úteis em interações que envolvem ações sem retorno, como feedback ao usuário.
 
+![EX3](Comprovacao_prints/ex02.png)
+
 ---
 
 ## 3. Cálculo de Área Utilizando Func
@@ -43,6 +45,8 @@ Um sistema de engenharia precisa realizar cálculos de área com base em entradas 
 - Utilize o delegate para exibir o resultado ao final do processo.
 
 > Esse exercício demonstra o uso prático do `Func` como abstração de cálculos com retorno.
+
+![EX3](Comprovacao_prints/ex03.png)
 
 ---
 
