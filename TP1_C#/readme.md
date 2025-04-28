@@ -14,6 +14,8 @@ Imagine que você está desenvolvendo um módulo de regras de negócio para uma apli
 
 > Este exercício introduz o uso de delegates personalizados para encapsular lógicas de negócio com alta reutilização e manutenção.
 
+![EX1](Comprovacao_prints/ex01.png)
+
 ---
 
 ## 2. Ações Multilíngues com Action<string>
