@@ -62,6 +62,8 @@ Sistemas embarcados em ambientes industriais monitoram sensores em tempo real. U
 
 > Com este exercício, você aprende a usar eventos para tornar aplicações mais reativas e seguras.
 
+![EX4](Comprovacao_prints/ex04.png)
+
 ---
 
 ## 5. Notificação de Conclusão de Download com Eventos
