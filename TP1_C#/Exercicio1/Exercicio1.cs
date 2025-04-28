@@ -1,6 +1,6 @@
 ﻿namespace TP1_C_.Exercicio1
 {
-    internal class Program
+    internal class Exercicio1
     {
         public delegate double CalculateDiscount(double valor);
 
