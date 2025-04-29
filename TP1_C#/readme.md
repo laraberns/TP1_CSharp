@@ -94,6 +94,8 @@ Uma aplicação corporativa precisa registrar logs simultaneamente em vários desti
 
 > Esse exercício reforça como delegates podem ser encadeados para criar comportamentos complexos com baixo acoplamento.
 
+![EX6](Comprovacao_prints/ex06.png)
+
 ---
 
 ## 7. Garantia de Robustez em Invocação de Delegates
