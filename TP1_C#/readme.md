@@ -108,3 +108,5 @@ Ao usar delegates em tempo de execução, é fundamental garantir que invocações nã
 - Teste o sistema sem nenhum método associado ao delegate e verifique que não ocorrem exceções.
 
 > Esse exercício promove boas práticas para escrita de código mais robusto.
+
+![EX7](Comprovacao_prints/ex07.png)
