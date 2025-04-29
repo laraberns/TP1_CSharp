@@ -110,3 +110,21 @@ Ao usar delegates em tempo de execução, é fundamental garantir que invocações nã
 > Esse exercício promove boas práticas para escrita de código mais robusto.
 
 ![EX7](Comprovacao_prints/ex07.png)
+
+---
+
+## 11 Manipulação de Strings com Delegates Encadeados
+
+Transformações encadeadas são comuns em pipelines de processamento.
+
+**Tarefas:**
+
+- Crie um `Func<string, string, string>` que concatene nome e sobrenome.
+- Encadeie mais dois métodos no delegate:
+  - Um que converta a string para maiúsculas.
+  - Outro que remova espaços em branco.
+- Observe e analise o comportamento do resultado.
+
+Esse exercício ajuda a compreender o comportamento de retorno em delegates multicast.
+
+![EX11](Comprovacao_prints/ex11.png)
