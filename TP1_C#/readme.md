@@ -30,7 +30,7 @@ Uma aplicação SaaS voltada ao público internacional precisa exibir mensagens de 
 
 > Este exercício mostra como delegates com `Action` são úteis em interações que envolvem ações sem retorno, como feedback ao usuário.
 
-![EX3](Comprovacao_prints/ex02.png)
+![EX2](Comprovacao_prints/ex02.png)
 
 ---
 
@@ -77,6 +77,8 @@ Ao lidar com tarefas assíncronas, como downloads, sistemas devem informar o usuá
 - Dispare o evento ao final do processo e exiba uma mensagem no console.
 
 > Este exercício ensina como eventos são utilizados para notificar o sistema sobre o fim de uma operação.
+
+![EX5](Comprovacao_prints/ex05.png)
 
 ---
 
